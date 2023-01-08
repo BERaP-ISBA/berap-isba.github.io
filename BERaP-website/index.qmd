@@ -1,0 +1,22 @@
+---
+title: "ISBA - BERaP"
+subtitle: "Bayesian Education Research and Practice"
+---
+
+BERaP is a section of the International Society for Bayesian Analysis (ISBA). Our aim to promote Bayes' education and research on teaching and learning of Bayesian statistics and statistical literacy at all levels and for any audience.
+
+------------------------------------------------------------------------
+
+## Events
+
+*There are no scheduled events at this time.*
+
+## Join
+
+Are you interested in being part of the conversation surrounding Bayes' education? Join BERaP!
+
+You must first be a [member](https://bayesian.org/membership/joinrenew/) of ISBA. In the *memberships form* part of the application, you can add your own-year membership to the BERaP (Bayesian Education Research and Practice) section for only \$5 more, or become a lifetime member for \$75.
+
+## About Us
+
+Learn about current [BERaP board members](about.qmd) and [bylaws](bylaws.qmd).

@@ -1,0 +1,63 @@
+---
+title: "BERaP - Bylaws"
+editor: visual
+---
+
+1.  **The name of the section**: The ISBA Section on Bayesian Education Research and Practice (ISBA/BERaP).
+
+2.  **The purpose of the section**:
+
+    a.  Promote Bayes' education and research on teaching and learning of Bayesian statistics and statistical literacy at all levels and for any audience. This includes:
+
+        i.  Advising ISBA on the educational elements (philosophical, methodological and practical/applied) of the ISBA strategic plan, including the need for education on the role and value of Bayesian statistics to the following audiences:
+
+            (1) Management in business and government
+
+            (2) Professionals such as journalists, lawyers and medical personnel
+
+            (3) Public policy makers at state, national and international levels
+
+            (4) K-12 policy makers, administrators and teachers
+
+            (5) Academic non-statisticians
+
+    b.  Support the dissemination of professional development and funding opportunities, teaching resources and research findings in Bayesian statistical education.
+
+    c.  Improve the pipeline of Bayesian statistics professionals from K-12 through college.
+
+    d.  Promote research in Bayesian education, by organizing conferences, workshops, and sessions in other meetings.
+
+    e.  Promote education in Bayesian methods at all levels by developing short-courses for students and practitioners;
+
+    f.  Promote academic-industry interactions and outreach on Bayesian education.
+
+3.  **The offices, duties, and terms of offices**:
+
+    -   The offices are those of Chair, Chair-elect, Past chair, Program chair, Treasurer and Secretary.
+
+    -   The Program chair, Treasurer and Secretary are elected by the membership for staggered two year\
+        terms. The Section Chair is installed through election to the office of Chair-elect; the electee\
+        serves for one year as Chair-elect followed by one year as Chair, and one year as Past chair.
+
+    -   The elected officers constitute the ISBA/BERaP Executive Committee. The Executive Committee\
+        will follow the general policies established by the ISBA Board, and conduct the affairs of the Section between meetings of the Board. The Executive Committee will report to the Board at each Board meeting. The report can be in writing.
+
+    -   The Section Chair convenes and chairs meetings of the Executive Committee and the Section Membership. The duties of the secretary, treasurer and the program chair are as described in item 4.B through D of the ISBA constitution, but restricted to the Section. The Program chair additionally works, with the other members of the Executive Committee, to organize short courses; the duties of Program chair include overall organization and management of courses. Also in connection with BERaP short courses, the Secretary of the Section assists with general administrative matters and the Treasurer is involved in all decisions and administrative matters related to short course finances.
+
+    -   The right to enter into legal contracts for ISBA or ISBA/BERaP is vested solely in the ISBA Executive Committee and in all cases requiring formal approval requires the signature of the Section Chair.
+
+4.  **How elections of Section officers are to be conducted**:
+
+    Officers are elected in the annual fall ISBA elections organized by ISBA. Each year, the Section members elect a member for the position of Chair-elect to take office the following January 1st; all other offices are open for election every two years. The chair is initially elected as chair-elect for one year, serving as chair the following year. All other officers are elected to serve for two-year terms. The BERaP Section Nominating Committee has 3 members: the immediate past BERaP Section chair, who chairs this nominating committee, and 2 BERaP Section members; these 2 members are chosen by the BERaP Executive Committee following solicitation of names and consultation with the BERaP membership. Only current Section members are eligible to be nominated. Only current Section members are eligible to vote. The terms for all officers starts on January 1 following the election.
+
+5.  **How membership in the Section is defined**:
+
+    Any ISBA member who pays the Section membership fee is a member of the Section. The Section membership fee is set by the BERaP Executive Committee and approved by the ISBA Board by resolution.
+
+6.  **Finances and revenue**:
+
+    The Section will aim to ensure revenue neutrality with regard to its short courses and workshops/conferences. Course fees and workshop/conference registrations -- together funds from other sources including ISBA and external sponsors -- will be primarily used to offset costs and ensure participant support. Any surpluses generated will be retained by the Section to use in support of future courses and workshops/conferences.
+
+7.  **The method of amendment of the bylaws**:
+
+    The Section Bylaws may be amended by majority vote in two successive Board meetings, with at least a two-week interval between the meetings. The Secretary submits yearly reports of Section activities to the ISBA Board. The Section will be considered inactive and dissolved by the ISBA Board by resolution if no report is submitted for 2 consecutive years, or no elections take place within 4 years. Provisions in the ISBA Bylaws and Constitution will apply in connection with any issues that are not specifically addressed in the Section Bylaws. In case of conflict ISBA Bylaws and Constitution take precedence over the Section Bylaws. Section Bylaws take precedence over resolutions of the ISBA Board.
