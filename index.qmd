@@ -9,7 +9,15 @@ BERaP is a section of the International Society for Bayesian Analysis (ISBA). Ou
 
 ## Events
 
-*There are no scheduled events at this time.*
+#### [Webinar Series]{.underline}
+
++--------------------+-------------+------------------------------------------+
+| Date and Time      | Location    | Topic                                    |
++====================+=============+==========================================+
+| March 2, 2023      | Zoom        | Panel on Bayesian statistics textbooks   |
+|                    |             |                                          |
+| 11am-12pm EST (US) |             | Speakers: *forthcoming*                  |
++--------------------+-------------+------------------------------------------+
 
 ## Join
 
