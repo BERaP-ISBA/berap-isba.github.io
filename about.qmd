@@ -17,3 +17,5 @@ Her goal is to create educational resources for statistics and data science that
 ![Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom.](figs/becky-profile.jpg){fig-align="left" width="200"}
 
 **Treasurer (2023-2025)**: Bertil Wegmann
+
+![Bertil Wegmann is an associate Professor of Statistics at the division of Statistics and Machine Learning within the Department of Computer and Information Science at Linköping University, Sweden. His work focuses on applying Bayesian inference to data in Medicine and Psychology. He is the programme director of the master's programme in Statistics and Machine Learning at Linköping University and teaches courses in Bayesian statistics at both undergraduate and graduate levels.](figs/bertil-profile.jpeg){fig-align="left" width="200"}
