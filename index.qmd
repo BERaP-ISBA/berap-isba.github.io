@@ -9,15 +9,17 @@ BERaP is a section of the International Society for Bayesian Analysis (ISBA). Ou
 
 ## Events
 
-#### [Webinar Series]{.underline}
+#### [Upcoming Webinar]{.underline}
 
-+------------------------------------+-------------------------------------+---------------------------------------------------------+
-| Date and Time                      | Location                            | Topic                                                   |
-+====================================+=====================================+=========================================================+
-| March 2, 2023                      | Zoom: registration link coming soon | Panel #1 on Bayesian statistics textbooks               |
-|                                    |                                     |                                                         |
-| 4pm-5pm UTC (11am-12pm US Eastern) |                                     | Speakers: Mine Dogucu, Allen Downey, and Osvaldo Martin |
-+------------------------------------+-------------------------------------+---------------------------------------------------------+
+**Description**: This panel features authors of the following Bayesian statistics textbooks: *Bayes Rules!, Think Bayes*, and *Bayesian Modeling and Computation in Python.* Join us to hear from the authors about their motivations and recommendations, and to learn if one or more of these textbooks would be suitable for your future course or self-education.
+
++------------------------------------+----------------------------------------------------------------------------------------------------------+---------------------------------------------------------+
+| Date and Time                      | Location                                                                                                 | Topic                                                   |
++====================================+==========================================================================================================+=========================================================+
+| March 2, 2023                      | Zoom: [Registration link](https://us06web.zoom.us/meeting/register/tZMldOusrDksHdWeQ2nsG91sDSKuK4pNS4nq) | Panel #1 on Bayesian statistics textbooks               |
+|                                    |                                                                                                          |                                                         |
+| 4pm-5pm UTC (11am-12pm US Eastern) |                                                                                                          | Speakers: Mine Dogucu, Allen Downey, and Osvaldo Martin |
++------------------------------------+----------------------------------------------------------------------------------------------------------+---------------------------------------------------------+
 
 ## Join
 
