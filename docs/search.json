@@ -18,7 +18,7 @@
     "href": "index.html#events",
     "title": "ISBA - BERaP",
     "section": "Events",
-    "text": "Events\n\nUpcoming Webinar\nDescription: This panel features authors of the following Bayesian statistics textbooks: Bayes Rules!, Think Bayes, and Bayesian Modeling and Computation in Python. Join us to hear from the authors about their motivations and recommendations, and to learn if one or more of these textbooks would be suitable for your future course or self-education.\n\n\n\nDate and Time\nLocation\nTopic\n\n\n\n\nMarch 2, 2023\n4pm-5pm UTC (11am-12pm US Eastern)\nZoom: Registration link\nPanel #1 on Bayesian statistics textbooks\nSpeakers: Mine Dogucu, Allen Downey, and Ravin Kumar"
+    "text": "Events\n\nUpcoming Webinars:\n\n\n\nDate and Time\nLocation\nTopic\n\n\n\n\nTBA\n\n\n\n\n\nVisit our events page to see a list of previous webinars."
   },
   {
     "objectID": "index.html#join",
@@ -40,5 +40,19 @@
     "title": "Board members",
     "section": "",
     "text": "Jingchen (Monika) Hu is an Associate Professor at Vassar College. She teaches an undergraduate Bayesian course at Vassar and is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling. For scholarly research, she works on Bayesian methods for statistical data privacy challenges.\n\n\nProgram Chair (2023-2025): Mine Dogucu\n\n\n\nMine Dogucu is a Lecturer (Teaching) in the Department of Statistical Science at University College London and is currently on leave from her Assistant Professor of Teaching (tenure-track) position in the Department of Statistics at the University of California Irvine.\n\nHer goal is to create educational resources for statistics and data science that are accessible physically and cognitively. Her work focuses on modern pedagogical approaches in the statistics curriculum, making data science education accessible, and undergraduate Bayesian education. She is the co-author of the book Bayes Rules! An Introduction to Applied Bayesian Modeling.\n\n\nSecretary (2023-2025): Becky Tang\n\n\n\nBecky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom.\n\n\nTreasurer (2023-2025): Bertil Wegmann\n\n\n\nBertil Wegmann is an associate Professor of Statistics at the division of Statistics and Machine Learning within the Department of Computer and Information Science at Linköping University, Sweden. His work focuses on applying Bayesian inference to data in Medicine and Psychology. He is the programme director of the master’s programme in Statistics and Machine Learning at Linköping University and teaches courses in Bayesian statistics at both undergraduate and graduate levels."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "Date\nDescription\nRecording\n\n\n\n\nMarch 2, 2023\nPanel featuring authors of the following Bayesian statistics textbooks: Bayes Rules!, Think Bayes, and Bayesian Modeling and Computation in Python.\nSpeakers: Mine Dogucu, Allen Downey, and Ravin Kumar\nZoom recording"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "ISBA - BERaP",
+    "section": "Upcoming events",
+    "text": "Upcoming events\n\nUpcoming Webinars:\n\n\n\nDate and Time\nLocation\nTopic\n\n\n\n\nTBA\n\n\n\n\n\nVisit our events page to see a list of previous webinars."
   }
 ]

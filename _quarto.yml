@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - events.qmd
       - about.qmd
       - bylaws.qmd
 
