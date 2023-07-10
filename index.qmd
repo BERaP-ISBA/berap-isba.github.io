@@ -23,6 +23,8 @@ Are you interested in being part of the conversation surrounding Bayes education
 
 You must first be a [member](https://bayesian.org/membership/joinrenew/) of ISBA. In the *memberships form* portion of the application, you can add your one-year membership to the BERaP (Bayesian Education Research and Practice) section for only \$5 more, or become a lifetime member for \$75.
 
+Join our [mailing list](https://forms.gle/6AJ7i8aiozLsY2Pz5) to stay up-to-date with BERaP events and activities.
+
 ## About Us
 
 Learn about current [BERaP board members](about.qmd) and [bylaws](bylaws.qmd).
