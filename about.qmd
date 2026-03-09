@@ -2,20 +2,16 @@
 title: "Board members"
 ---
 
-**Section Chair (2023-2025)**: Jingchen (Monika) Hu
-
-![Jingchen (Monika) Hu is an Associate Professor at Vassar College. She teaches an undergraduate Bayesian course at Vassar and is a co-author of the undergraduate-level Bayesian textbook *Probability and Bayesian Modeling*. For scholarly research, she works on Bayesian methods for statistical data privacy challenges.](figs/monika_profile.jpeg){fig-align="left" width="200"}
-
-**Program Chair (2023-2025)**: Mine Dogucu
-
-![Mine Dogucu is a Lecturer (Teaching) in the Department of Statistical Science at University College London and is currently on leave from her Assistant Professor of Teaching (tenure-track) position in the Department of Statistics at the University of California Irvine.\
-\
-Her goal is to create educational resources for statistics and data science that are accessible physically and cognitively. Her work focuses on modern pedagogical approaches in the statistics curriculum, making data science education accessible, and undergraduate Bayesian education. She is the co-author of the book *Bayes Rules! An Introduction to Applied Bayesian Modeling*.](figs/Dogucu-headshot.jpeg){fig-align="left" width="200"}
-
-**Secretary (2023-2025)**: Becky Tang
+**Chair-Elect**: Becky Tang
 
 ![Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom.](figs/becky-profile.jpg){fig-align="left" width="200"}
 
-**Treasurer (2023-2025)**: Bertil Wegmann
+**Chair**: Vanda Inacio
 
-![Bertil Wegmann is an associate Professor of Statistics at the division of Statistics and Machine Learning within the Department of Computer and Information Science at Linköping University, Sweden. His work focuses on applying Bayesian inference to data in Medicine and Psychology. He is the programme director of the master's programme in Statistics and Machine Learning at Linköping University and teaches courses in Bayesian statistics at both undergraduate and graduate levels.](figs/bertil-profile.jpeg){fig-align="left" width="200"}
+![I am a Reader (equivalent to Associate Professor outside the UK) in Statistics at the School of Mathematics at the University of Edinburgh. My research focuses on Bayesian biostatistics, with a particular emphasis on the statistical evaluation of medical biomarkers for diagnosis and prognosis. I have taught a range of modules, including Bayesian Statistics, Missing Data, Computational Statistics, Survival Analysis, and Linear and Generalized Linear Models. My administrative roles at Edinburgh have primarily been related to teaching and from May 2026 I will serve as the School’s Director of Teaching.](figs/vanda_photo.jpeg){alt="Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom." fig-align="left" width="200"}
+
+**Secretary**: Shaoyang Ning
+
+**Treasurer**: Michael Pearce
+
+![Michael Pearce is an assistant professor of statistics at Reed College in Portland, Oregon. His research interests lie at the intersections of Bayesian statistics, model-based clustering, and the social sciences. Michael teaches a variety of undergraduate statistics courses, including a course on Bayesian statistics at the early-intermediate level. ](figs/pearce_cropped.jpg){alt="Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom." fig-align="left" width="200"}
