@@ -12,6 +12,8 @@ title: "Board members"
 
 **Secretary**: Shaoyang Ning
 
+![Shaoyang Ning is an Assistant Professor of Statistics at Swarthmore College. His research focuses on the study and design of statistical methods for integrative data analysis, in particular, to address the challenges of increasing complexity and connectivity arising from “Big Data”. Instances include tracking infectious diseases and other social/economic trends with Google search data and Bayesian methods for computational biology. He also teaches Bayesian Statistics at the undergraduate level.](figs/shaoyang_photo.jpeg){alt="Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom." fig-align="left" width="200"}
+
 **Treasurer**: Michael Pearce
 
 ![Michael Pearce is an assistant professor of statistics at Reed College in Portland, Oregon. His research interests lie at the intersections of Bayesian statistics, model-based clustering, and the social sciences. Michael teaches a variety of undergraduate statistics courses, including a course on Bayesian statistics at the early-intermediate level. ](figs/pearce_cropped.jpg){alt="Becky Tang is an Assistant Professor of Statistics at Middlebury College. Her research interests lie in developing Bayesian hierarchical models for ecological applications. She aims to help students develop confidence in the statistics and data science classroom." fig-align="left" width="200"}
