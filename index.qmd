@@ -10,8 +10,8 @@ BERaP is a section of the International Society for Bayesian Analysis (ISBA). Ou
 #### [Upcoming Webinars:]{.underline}
 
 | Date and Time | Location | Topic |
-|----|----|----|
-| May 13, 2026 (12:00 EDT, 15:00 GMT/18:00 CET) | Zoom: register [here](https://us06web.zoom.us/webinar/register/WN_cM9P6xK6T-OgOaxrCjKJtA) | Ron Yurko (Assistant Professor at Carnegie Mellon University) will speak about his Bayesian research and teaching in the context of sports analytics. |
+|------------------------|------------------------|------------------------|
+| May 13, 2026 (12:00 EDT, 15:00 GMT/18:00 CET) | Zoom: register [here](https://us06web.zoom.us/webinar/register/WN_cM9P6xK6T-OgOaxrCjKJtA) | Since the release of *Moneyball*, the field of sports analytics has grown from a niche interest into a technically mature field. In this webinar, I will first discuss why common problems and challenges in modern sports analytics research, e.g., player/team evaluation and communicating uncertainty, warrants Bayesian thinking. Then, I will provide an overview of a course offered at Carnegie Mellon that introduces advanced undergraduates and graduate students to applied Bayesian modeling through sports analytics. Using real problems faced by professional sports teams, I will share strategies for teaching core Bayesian concepts, such as constructing priors, building hierarchical models, and simulating with the posterior predictive distribution. Finally, I will highlight accessible sports analytics resources and datasets that instructors can use to integrate Bayesian thinking into their own curriculum. |
 
 : {tbl-colwidths="\[25,20, 55\]"}
 
